@@ -30,7 +30,7 @@ To be able to translate any elements in the application, you must be a registere
 
 Once you register as a new user, add a new application and copy the token to the configuration file.
 
-Open "config/initializers/tml.rb" and change the following lines:
+Open "app/Http/Middleware/Tml.php" and change the following lines:
 
 ```php
 tml_init([
