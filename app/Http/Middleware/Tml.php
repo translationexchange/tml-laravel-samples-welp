@@ -18,7 +18,7 @@ class Tml {
             ],
             "log" => [
                 "enabled" => true,
-                "path" => "/Users/Berk/Projects/Tml/tml-laravel-samples-welp/log/tml.log"
+                "path" => "./log/tml.log"
             ]
         ]);
 
