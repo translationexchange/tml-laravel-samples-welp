@@ -464,3 +464,60 @@
 2016-05-30 17:58:52: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/index
 2016-05-30 17:58:52: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/navigation
 2016-05-30 17:58:52: Page loaded in 20 milliseconds
+2016-05-31 9:28:14: Cookie name: trex_76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd
+2016-05-31 9:28:14: Initializing application...
+2016-05-31 9:28:14: memcache - Cache hit tml_76e8b8c5b_current_version
+2016-05-31 9:28:14: Local cache version 20160531004932
+2016-05-31 9:28:14: Cache version is outdated, needs refresh
+2016-05-31 9:28:14: GET: https://cdn.translationexchange.com/76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd/version.json
+2016-05-31 9:28:15: Received compressed 69 uncompressed 69 in 567 milliseconds
+2016-05-31 9:28:15: Storing version in local cache as 20160531004932
+2016-05-31 9:28:15: memcache - Cache store tml_76e8b8c5b_current_version
+2016-05-31 9:28:15: memcache - Cache hit tml_76e8b8c5b_v20160531004932_application
+2016-05-31 9:28:15: Application initialized
+2016-05-31 9:28:15: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/language
+2016-05-31 9:28:15: memcache - Cache hit tml_76e8b8c5b_v20160531004932_en/language
+2016-05-31 9:28:15: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/index
+2016-05-31 9:28:15: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/navigation
+2016-05-31 9:28:15: Page loaded in 597 milliseconds
+2016-05-31 9:28:18: Cookie name: trex_76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd
+2016-05-31 9:28:18: Initializing application...
+2016-05-31 9:28:18: memcache - Cache hit tml_76e8b8c5b_current_version
+2016-05-31 9:28:18: Local cache version 20160531004932
+2016-05-31 9:28:18: Cache version is up to date, expires in 3597s
+2016-05-31 9:28:18: memcache - Cache hit tml_76e8b8c5b_v20160531004932_application
+2016-05-31 9:28:18: Application initialized
+2016-05-31 9:28:18: memcache - Cache hit tml_76e8b8c5b_v20160531004932_en/language
+2016-05-31 9:28:18: memcache - Cache miss tml_76e8b8c5b_v20160531004932_en/sources/index
+2016-05-31 9:28:18: GET: https://cdn.translationexchange.com/76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd/20160531004932/en/sources/index.json
+2016-05-31 9:28:19: Received compressed 694 uncompressed 1216 in 550 milliseconds
+2016-05-31 9:28:19: memcache - Cache store tml_76e8b8c5b_v20160531004932_en/sources/index
+2016-05-31 9:28:19: memcache - Cache miss tml_76e8b8c5b_v20160531004932_en/sources/navigation
+2016-05-31 9:28:19: GET: https://cdn.translationexchange.com/76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd/20160531004932/en/sources/navigation.json
+2016-05-31 9:28:19: Received compressed 482 uncompressed 482 in 470 milliseconds
+2016-05-31 9:28:19: memcache - Cache store tml_76e8b8c5b_v20160531004932_en/sources/navigation
+2016-05-31 9:28:19: Page loaded in 1043 milliseconds
+2016-05-31 9:28:21: Cookie name: trex_76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd
+2016-05-31 9:28:21: Initializing application...
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_current_version
+2016-05-31 9:28:21: Local cache version 20160531004932
+2016-05-31 9:28:21: Cache version is up to date, expires in 3594s
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_v20160531004932_application
+2016-05-31 9:28:21: Application initialized
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/language
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_v20160531004932_en/language
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/index
+2016-05-31 9:28:21: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/navigation
+2016-05-31 9:28:21: Page loaded in 22 milliseconds
+2016-05-31 9:28:47: Cookie name: trex_76e8b8c5b412f65584ccb10ff596f954c6a6b9e1a2823690a9ce95ef63ae86cd
+2016-05-31 9:28:47: Initializing application...
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_current_version
+2016-05-31 9:28:47: Local cache version 20160531004932
+2016-05-31 9:28:47: Cache version is up to date, expires in 3568s
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_v20160531004932_application
+2016-05-31 9:28:47: Application initialized
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/language
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_v20160531004932_en/language
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/index
+2016-05-31 9:28:47: memcache - Cache hit tml_76e8b8c5b_v20160531004932_ru/sources/navigation
+2016-05-31 9:28:47: Page loaded in 22 milliseconds
